@@ -1,0 +1,24 @@
+{
+    "user_query": {
+        "origin": "Delhi",
+        "budget": 10000,
+        "duration_days": 3,
+        "interest": "mountain adventure",
+        "month": "December"
+    },
+    "recommended_destinations": [
+        {
+            "Destination": "Manali",
+            "Category": "mountain adventure",
+            "Cost_Level": 9000,
+            "Best_Time": "October-December"
+        },
+        {
+            "Destination": "Auli",
+            "Category": "mountain adventure",
+            "Cost_Level": 10000,
+            "Best_Time": "December-February"
+        }
+    ],
+    "weather": "Clear, -4.1\u00b0C"
+}
